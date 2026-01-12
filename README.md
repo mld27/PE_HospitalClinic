@@ -7,8 +7,7 @@ Aquest repositori conté el codi desenvolupat durant les meves pràctiques al **
 - Automatitzar la lectura i tractament de dades exportades en format `.txt` per les màquines de tractament.
 - Detectar i corregir solapaments entre fitxers d’una mateixa sessió.
 - Construir línies temporals coherents i enriquides amb informació clínica (Beam ON/OFF, thresholds, UMs…).
-- Gestionar carpetes completes de pacients i generar informes d’anàlisi de múltiples sessions.
-- Preparar el processament per a estudis comparatius entre pacients entrenats i no entrenats en DIBH.
+- Gestionar carpetes completes de pacients.
 
 ## Notes
 Els dos arxius "Practicas de Empresa - Hospital Clinic" corresponen al mateix codi de Jupyter Notebook. En cas de voler executar el codi, es necesari disposar de dades de pacients.
